@@ -1,0 +1,31 @@
+body {
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Gulzar', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-design {
+    text-align: center;
+    height: 350px;
+    padding-top: 120px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 40px;
+    background-image: url(images/donation13.jpg);
+    color: #f3ebe1;
+}
+
+#text-color {
+    color: rgb(137, 234, 234);
+}
+
+.button {
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700px;
+}
