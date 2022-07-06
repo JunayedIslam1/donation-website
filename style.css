@@ -112,9 +112,14 @@ h6 {
 
 .img {
     display: flex;
-    padding-left: 30px;
-    margin-bottom: 20px;
+    padding-left: 60px;
+    margin-bottom: 30px;
     margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 5px solid rgb(86, 78, 93);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(63, 87, 63);
 }
 
 #partner {
@@ -127,4 +132,39 @@ h6 {
     text-align: right;
     padding: 50px;
     background-color: cadetblue;
+}
+
+#updates {
+    margin-top: 60px;
+    padding: 10px;
+}
+
+.btn {
+    background-color: rgb(255, 98, 0);
+    font-weight: bold;
+    width: 120px;
+    padding: 5px;
+}
+
+.sub {
+    background-color: aquamarine;
+    height: 80px;
+    padding-left: 350px;
+    padding-top: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 60px;
+    border-radius: 10px;
+}
+
+#finale {
+    background-color: black;
+    height: 100px;
+    padding-top: 30px;
+}
+
+#footer {
+    color: coral;
+    font-weight: bold;
+    text-align: center;
 }
