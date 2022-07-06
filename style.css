@@ -109,3 +109,22 @@ h6 {
 #color3 {
     background-color: darkorange;
 }
+
+.img {
+    display: flex;
+    padding-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+#partner {
+    text-align: left;
+    padding: 50px;
+    background-color: cadetblue;
+}
+
+#provide {
+    text-align: right;
+    padding: 50px;
+    background-color: cadetblue;
+}
