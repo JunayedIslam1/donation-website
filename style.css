@@ -15,7 +15,8 @@ body {
     background-image: url(images/donation13.jpg);
     color: #f3ebe1;
     background-repeat: no-repeat;
-    background-size: 1300px 1200px;
+    background-position: center;
+    background-size: cover;
 }
 
 #text-color {
