@@ -8,13 +8,14 @@ body {
 .text-design {
     text-align: center;
     height: 350px;
-    padding-top: 120px;
-    padding-bottom: 30px;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-bottom: 40px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     background-image: url(images/donation13.jpg);
     color: #f3ebe1;
+    background-repeat: no-repeat;
+    background-size: 1300px 1200px;
 }
 
 #text-color {
@@ -28,4 +29,83 @@ body {
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: 700px;
+}
+
+.donate-today {
+    text-align: center;
+    margin-top: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.today {
+    color: grey;
+}
+
+.flexible {
+    display: flex;
+    color: gray;
+    margin-left: 400px;
+    margin-bottom: 60px;
+
+}
+
+.box-design {
+    box-shadow: 10px 10px 40px grey;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+
+}
+
+.border {
+    border: 5px solid blueviolet;
+    background-color: blanchedalmond;
+}
+
+#usd {
+    color: blueviolet;
+    font-weight: 500px;
+}
+
+h6 {
+    color: rgb(168, 165, 165);
+    text-align: center;
+    border-bottom: 2px solid gray;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.align {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.flex {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.background {
+
+    margin-left: 10px;
+    padding: 5px;
+    height: 300px;
+    border-radius: 5px;
+
+}
+
+#color1 {
+    background-color: bisque;
+}
+
+#color2 {
+    background-color: aqua;
+}
+
+#color3 {
+    background-color: darkorange;
 }
